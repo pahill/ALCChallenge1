@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALCChallenge1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="profile">My Profile</string>
+    <string name="myname">Pamela Hill</string>
+    <string name="trackLabel">Track:</string>
+    <string name="track">Android</string>
+    <string name="countryLabel">Country:</string>
+    <string name="country">South Africa</string>
+    <string name="emailLabel">Email:</string>
+    <string name="email">hi@pamela.com</string>
+    <string name="phoneNumberLabel">Phone Number: </string>
+    <string name="phoneNumber">+2700000000</string>
+    <string name="slackUserNameLabel">Slack Username: </string>
+    <string name="slackUsername">\@Pamela</string>
+    <string name="main_title">ALC 4 Phase 1</string>
+    <string name="about_title">About ALC</string>
+    <string name="profile_title">My Profile</string>
+</resources>
